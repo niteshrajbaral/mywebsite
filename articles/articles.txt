@@ -1,0 +1,28 @@
+How to create a website.
+1. Create a html css file 
+     Create a simple html css file or create webpage using 
+     worpress like websites. If you are using html then the 
+     home page must be a index.html. You can create the 
+     webpage by writing articles or blogs. 
+2. Own a domain
+      After you have decided what type of website to create,
+      then you can search for domain that suits your webpage.
+      You may need some money to buy a domain,However you can
+      own a domain free of cost too. There are some sites which 
+      provide domain free of cost.
+3. Find a hosting site.
+      Then your next step is to find a hosting site. Google
+      cloud can be used to host your website in less than a
+      doller. You can find free hosting sites like infinity.net
+      ,heliohost but they cannot used for profestional website. 
+4. Upload your files. 
+       After doing all task mentioned above you can upload 
+       your files in the hosting site. The main page must be
+       index.html if you are using html file.
+  
+how to be youtuber
+1.Find a content
+2.Be confidient
+3.Shoot video
+4.Edit the video
+5.Upload your video
